@@ -1,0 +1,31 @@
+M158b Lights Spec:
+
+Channels:
+    1:  LED-1 RED
+    2:  LED-1 GREEN
+    3:  LED-1 BLUE
+    4:  LED-1 WHITE
+
+    5:  LED-2 RED
+    6:  LED-2 GREEN
+    7:  LED-2 BLUE
+    8:  LED-2 WHITE
+
+    9:  LED-3 RED
+    10: LED-3 GREEN
+    11: LED-3 BLUE
+
+    12: LED-4 RED
+    13: LED-4 GREEN
+    14: LED-4 BLUE
+
+    15: HALOGEN-1 WHITE
+    16: HALOGEN-2 WHITE
+    17: HALOGEN-3 WHITE
+
+Space/Placement:
+    Facing North, towards the projction screen / piano
+
+    LED-1 : right side of the room, near the dugout. Pointing upwards towards right-side buttress 
+
+    LED-2 : left side of the room, near the kitchen. Pointing upwards towards left-side buttress
