@@ -1,4 +1,8 @@
-# "Situated Instrument Design for Musical Expression" Interactive Installation | Lighting Component
+![title-header](photos/Header.jpg) <!-- markdownlint-disable-line -->
+
+## [Read About the Event from Berkeley Arts + Design](https://artsdesign.berkeley.edu/performing-arts/made-at-berkeley/music-158b-interactive-installation-2018)
+
+## [See The Official CNMAT Event Page for the Performance](https://cnmat.berkeley.edu/events/cnmat-music-158b-collective-presents-interactive-installation)
 
 ## Images From the Event
 
