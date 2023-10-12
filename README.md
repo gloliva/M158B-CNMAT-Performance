@@ -6,13 +6,11 @@
 
 ## Event Overview
 
-
-
 ## Media From the Event
 
 ![xbox-kinect](media/event/xbox-kinect.JPG)
 
-An Xbox-Kinect was places in the main walking path to record human skeletal data. As audience members would walk by, the movements of their arms, legs, and head would affect the projected visual, causing it to warp, expand, pulse, and ripple.
+An Xbox-Kinect was placed in the main walking path to record human skeletal data. As audience members walked by, the movements of their arms, legs, and head would affect the projected visual, causing it to warp, expand, pulse, and ripple.
 
 ---
 
